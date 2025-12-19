@@ -8,7 +8,7 @@
 
 <p align="left">
 
-## Contatos
+### Contatos
   <a href="mailto:rebecareis2323@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -36,7 +36,7 @@
 <br clear="left"/>
 
 
-## Tecnologias: 🖥️
+### Tecnologias: 🖥️
 
 ### Linguagens
 
