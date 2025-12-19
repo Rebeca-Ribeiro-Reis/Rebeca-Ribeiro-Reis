@@ -6,9 +6,9 @@
 
 ---
 
-## Contatos
-
 <p align="left">
+
+## Contatos
   <a href="mailto:rebecareis2323@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -56,8 +56,6 @@
 
 <br clear="left"/>
 
----
-
 ### Ferramentas
 
 <img align="left" alt="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -68,7 +66,6 @@
 
 <br clear="left"/>
 
----
 
 ### Banco de Dados
 
@@ -78,7 +75,6 @@
 
 <br clear="left"/>
 
----
 
 ### Testes e Monitoramento
 
@@ -87,7 +83,6 @@
 
 <br clear="left"/>
 
----
 
 ### IDEs
 
