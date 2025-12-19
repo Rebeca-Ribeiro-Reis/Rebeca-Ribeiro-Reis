@@ -17,7 +17,6 @@
   </a>
 </p>
 
----
 
 <img
   align="left"
@@ -36,11 +35,8 @@
 
 <br clear="left"/>
 
----
 
-## Tecnologias 🖥️
-
----
+## Tecnologias: 🖥️
 
 ### Linguagens
 
