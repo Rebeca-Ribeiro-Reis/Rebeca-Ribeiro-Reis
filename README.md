@@ -1,7 +1,7 @@
 ### Rebeca Ribeiro 👩🏻‍💻
 
-➡️ Me chamo Rebeca, tenho 20 anos, sou estudante de Engenharia de Software e estagiária full stack na Câmara Municipal de Curitiba. <br>
-➡️ Áreas de interesse: Desenvolvimento Web com React,Node,Typescript e Next e Backend Java.<br>
+➡️ Me chamo Rebeca, tenho 20 anos, sou estudante de Engenharia de Software e Desenvolvedora Júnior Web na Pneufree. <br>
+➡️ Áreas de interesse: Desenvolvimento Web com: React,Node,Typescript e Next, Backend: Java/Spring.<br>
 ➡️ Metas: Pós-graduação em IA ou Cybersegurança.
 
 ---
