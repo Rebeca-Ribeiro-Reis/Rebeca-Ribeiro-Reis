@@ -1,7 +1,7 @@
 ### Rebeca Ribeiro 👩🏻‍💻
 
 ➡️ Me chamo Rebeca, tenho 21 anos, sou estudante de Engenharia de Software e Desenvolvedora Júnior Web na [Pneufree.](https://www.pneufree.com.br/) <br>
-➡️ Áreas de interesse: Desenvolvimento Web com: React,Node,Typescript e Next.
+➡️ Áreas de interesse: Desenvolvimento Web com: React,Node,Typescript e Next.  <br>
 ➡️ Metas: Estudar Cloud e me aprofundar em Node.js
 
 ---
