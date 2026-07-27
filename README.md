@@ -1,9 +1,9 @@
 ### Rebeca Ribeiro 👩🏻‍💻
 
-➡️ Me chamo Rebeca, tenho 21 anos, sou estudante de Engenharia de Software e Desenvolvedora Júnior na [Pneufree.](https://www.pneufree.com.br/) <br>
-➡️ Áreas de interesse: Desenvolvimento Backend : Node.js e Java <br>
-➡️ Metas: Estudar Cloud e me aprofundar em Node.js <br>
-➡️ Meu PORTIFÓRIO : https://rebeca-ribeiro-dev.vercel.app/
+➡️ Me chamo Rebeca, tenho 21 anos, sou estudante de Engenharia de Software e Desenvolvedora Júnior na [TOTVS.](https://www.totvs.com/) <br>
+➡️ Áreas de interesse: Desenvolvimento Backend : Node.js/NestJS e Java <br>
+➡️ Metas: Me aprofundar em  arquitetura e AWS <br>
+➡️ Meu PORTFÓLIO : https://rebeca-ribeiro-dev.vercel.app/
 
 ---
 
@@ -36,12 +36,14 @@
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NestJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
 
 <br clear="left"/>
 
 ### Ferramentas
 
 <img align="left" alt="NPM" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Vercel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
